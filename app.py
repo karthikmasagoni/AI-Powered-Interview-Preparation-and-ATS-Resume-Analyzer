@@ -30,7 +30,7 @@ st.set_page_config(
 )
 
 st.title(
-    "🎯 CareerPilot AI - Intelligent Placement Preparation Platform"
+    "🎯 CareerBoost AI - Intelligent Placement Preparation Platform"
 )
 
 
