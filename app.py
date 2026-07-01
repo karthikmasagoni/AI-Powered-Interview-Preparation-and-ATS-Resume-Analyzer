@@ -24,7 +24,7 @@ if "user" not in st.session_state:
 
 
 st.set_page_config(
-    page_title="CareerPilot AI",
+    page_title="CareerBoost AI",
     page_icon="🎯",
     layout="wide"
 )
